@@ -19,4 +19,3 @@ faqQuestions.forEach(function(question) {
         answer.classList.toggle('show');
     });
 });
-
